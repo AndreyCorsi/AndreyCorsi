@@ -2,6 +2,6 @@
 
 
 - 🎓Faço técnico em informática
-- 💻Procuro um estágio na área de backend(JavaScript)
+- 💻Procuro um estágio na área de backend(NodeJS)
 - 📫Contate-me com o email: andreycorsimoguedes@gmail.com
 
